@@ -1,7 +1,7 @@
 package teststudentclass;
 
 /**
- * This class +++Insert Description Here+++
+ * This class is great
  *
  * @author Nadeem Rashid
  */
